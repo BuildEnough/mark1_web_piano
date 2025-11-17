@@ -7,7 +7,7 @@
 
 ## 🖼️ 화면 구성
 
-[![Web Piano](web_piano_image.png)](http://buildenough.shop/piano)
+[![Web Piano](web_piano_image.png)](http://buildenough.shop/piano)  
 사이트: http://buildenough.shop/piano
 
 ---
